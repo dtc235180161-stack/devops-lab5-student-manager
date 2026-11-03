@@ -1,4 +1,4 @@
-# 🚀 LAB 5: QUẢN LÝ MÃ NGUỒN VÀ QUY TRÌNH GIT FLOW
+git checkout develop# 🚀 LAB 5: QUẢN LÝ MÃ NGUỒN VÀ QUY TRÌNH GIT FLOW
 
 Môn học: **Vận hành và Bảo trì phần mềm (DevOps)**  
 Trường: **Đại học CNTT & TT Thái Nguyên (ICTU)**
